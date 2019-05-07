@@ -171,7 +171,7 @@ SNES VC are strangely made so the ROM is altered and cannot be extracted. If you
 
 ![](https://i.imgur.com/kNlfjt0.png)
 
-10. Done! Magic!
+10. Done!
 
 ![](https://i.imgur.com/OVJcbfG.png)
 
