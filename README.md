@@ -18,7 +18,7 @@ This tutorial is valid for:
 - Gameboy Advance,
 - GameGear
 
-NES VC uses the TNES header which makes them not playable if dumped and trying to removing the header is quite a pain.
+NES VC uses the TNES header which makes them not playable if dumped and trying to fix the header is quite a pain.
 
 SNES VC are strangely made so the ROM is altered and cannot be extracted. If you were to extract it correctly, the sound would be destroyed.
 
