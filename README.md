@@ -2,7 +2,7 @@
 
 # How to extract a ROM file out of a 3DS Virtual Console
 
-Sometimes, some games are so rare that a physical copy is very expensive, though if the game is available on the Virtual Console, it is a lot cheaper. Buying a Virtual Console is like buying the cart, you can dump the ROM and use it on emulators and rom hacks. 
+Some games are so rare that a physical copy is very expensive, though if the game is available on the Virtual Console, it is a lot cheaper. Buying a Virtual Console is like buying the cart, you can dump the ROM and use it on emulators and rom hacks. 
 
 Note that the same rules apply on digital games and physical games:
 - You own ONE license so installing the game in multiple consoles is illegal.
