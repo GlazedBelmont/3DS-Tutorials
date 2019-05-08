@@ -55,17 +55,19 @@ SNES VC are strangely made so the ROM is altered and cannot be extracted. If you
 
 6. Find the Virtual Console game that you want to extract the ROM from and press A on it.
 
-![](https://i.imgur.com/OXdBvIu.jpg)
+![](https://i.imgur.com/vA2UTXo.png)
 
 7. Press A on 《TMD file options...》.
  
-![](https://i.imgur.com/qpTqk7F.jpg)
+![](https://i.imgur.com/m2vcAAu.png) 
 
 8. Press A on 《Mount CXI/NDS to drive》.
 
-![](https://i.imgur.com/gHL8ZFE.jpg)
+![](https://i.imgur.com/yvYXUFo.png) 
 
 9. Confirm with A.
+
+![](https://i.imgur.com/ZSTWP2T.png)
 
 10. Now, you will be into the files of the Virtual Console game.
 
