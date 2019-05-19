@@ -177,6 +177,15 @@ SNES VC are strangely made so the ROM is altered and cannot be extracted without
 
 ![](https://i.imgur.com/OVJcbfG.png)
 
+### Section III: Dumping a GBA bios
+
+**Nintendo has included GBA bios in many VC titles, you can use this bios with gbarunner2, an emulator or your 3DS to recreate that nostalgic boot screen.**
+
+1. In the 《romfs》 folder, if there is a file called 《agb.bin》, guess what, that's your GBA bios.
+
+2. Press A on 《copy to gm9/out》 and you now have a legally obtained GBA bios.
+
+
 ***
 
 ### Acknowledgements
