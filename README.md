@@ -183,8 +183,11 @@ SNES VC are strangely made so the ROM is altered and cannot be extracted without
 
 1. In the 《romfs》 folder, if there is a file called 《agb.bin》, guess what, that's your GBA bios.
 
+![](https://i.imgur.com/zRvVML9.png)
+
 2. Press A on 《copy to gm9/out》 and you now have a legally obtained GBA bios.
 
+![](https://i.imgur.com/ZEJhWgg.png)
 
 ***
 
