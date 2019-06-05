@@ -1,6 +1,6 @@
-# 3DS-VC-Extraction-Tutorial
 
-# How to extract a ROM file out of a 3DS Virtual Console
+# How to extract a ROM file out of a 3DS Virtual Console 
+>by GlazedBelmont
 
 Some games are so rare that a physical copy is very expensive, though if the game is available on the Virtual Console, it is a lot cheaper. Buying a Virtual Console is like buying the cart, you can dump the ROM and use it on emulators and rom hacks. 
 
@@ -192,9 +192,9 @@ SNES VC are strangely made so the ROM is altered and cannot be extracted without
 ***
 
 ### Acknowledgements
-I'd like to thank Chromaryu#6870, Spunky#0030, radostin04#1337, Hikaru#1042 and eip∞#3283.
+I'd like to thank Chromaryu#6870, Spunky#0030, radostin04#1337, Hikaru#1042, eip∞#3283 and validusername16#9643.
 
-Thanks to arm9#6666 for the wiki.
+Thanks to arm9#6666 for the markdown conversion.
 
  This tutorial wouldn't be the same without your help. 
 
